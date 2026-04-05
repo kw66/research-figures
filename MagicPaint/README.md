@@ -11,20 +11,23 @@ MagicPaint: Operate Anything for Image Inpainting with Diffusion Model
 
 </div>
 
-## Overview
+> [!NOTE]
+> 🎨 面向图像修复任务，通过 diffusion model 实现更可控的多区域编辑与 inpainting。
+
+## ✨ Overview
 
 MagicPaint 面向图像修复任务，通过 diffusion model 实现更可控的多区域编辑与 inpainting。
 
-## Quick Links
+## 🔗 Quick Links
 
 | Type | Link |
 | --- | --- |
-| Repo | [littleYaang/MagicPaint](https://github.com/littleYaang/MagicPaint) |
-| Social | [小红书介绍](http://xhslink.com/o/1mBuHa2IU4U) |
-| Paper | [MagicPaint: Operate Anything for Image Inpainting with Diffusion Model](https://doi.org/10.1609/aaai.v40i14.38151) |
+| 💻 Repo | [littleYaang/MagicPaint](https://github.com/littleYaang/MagicPaint) |
+| 📕 Social | [小红书介绍](http://xhslink.com/o/1mBuHa2IU4U) |
+| 📄 Paper | [MagicPaint: Operate Anything for Image Inpainting with Diffusion Model](https://doi.org/10.1609/aaai.v40i14.38151) |
 
 <details>
-<summary><strong>Citation</strong></summary>
+<summary><strong>📚 Citation</strong></summary>
 
 ```bibtex
 @inproceedings{yang2026magicpaint,

@@ -14,23 +14,26 @@ Towards Anytime Retrieval: A Benchmark for Anytime Person Re-Identification
 
 </div>
 
-## Overview
+> [!NOTE]
+> 👤 面向任意时间的人体检索 benchmark，覆盖白天/夜晚、短期/长期等六类场景，并配套提出 AT-USTC 数据集。
+
+## ✨ Overview
 
 AT-ReID 面向任意时间的人体检索任务，覆盖白天/夜晚、短期/长期等六类场景，并配套提出 AT-USTC 数据集。
 
-## Quick Links
+## 🔗 Quick Links
 
 | Type | Link |
 | --- | --- |
-| Task | [任务介绍](https://zhuanlan.zhihu.com/p/1944895842541605129) |
-| Dataset | [数据集介绍](https://zhuanlan.zhihu.com/p/1946682409371304382) |
-| Method | [方法介绍](https://zhuanlan.zhihu.com/p/1947080865181078424) |
-| Repo | [kw66/AT-ReID](https://github.com/kw66/AT-ReID) |
-| Social | [小红书介绍](http://xhslink.com/o/8czcPQfNziK) |
-| Paper | [Towards Anytime Retrieval: A Benchmark for Anytime Person Re-Identification](https://arxiv.org/abs/2509.16635) |
+| 📌 Task | [任务介绍](https://zhuanlan.zhihu.com/p/1944895842541605129) |
+| 🗂 Dataset | [数据集介绍](https://zhuanlan.zhihu.com/p/1946682409371304382) |
+| 🧠 Method | [方法介绍](https://zhuanlan.zhihu.com/p/1947080865181078424) |
+| 💻 Repo | [kw66/AT-ReID](https://github.com/kw66/AT-ReID) |
+| 📕 Social | [小红书介绍](http://xhslink.com/o/8czcPQfNziK) |
+| 📄 Paper | [Towards Anytime Retrieval: A Benchmark for Anytime Person Re-Identification](https://arxiv.org/abs/2509.16635) |
 
 <details>
-<summary><strong>Citation</strong></summary>
+<summary><strong>📚 Citation</strong></summary>
 
 ```bibtex
 @inproceedings{li2025ATreid,
