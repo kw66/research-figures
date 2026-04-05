@@ -4,10 +4,10 @@
 
 从草图到成品的科研绘图资料仓，集中收录多个项目的绘图源文件、海报、报告幻灯片与其他可编辑展示资产。
 
-[![Projects](https://img.shields.io/badge/Projects-4-24292f?style=flat-square)](./)
-[![Papers](https://img.shields.io/badge/Papers-4-7a1fa2?style=flat-square)](./)
-[![Focus](https://img.shields.io/badge/Focus-Figures%20%26%20Slides-0a7ea4?style=flat-square)](./)
-[![Social](https://img.shields.io/badge/Social-Xiaohongshu-ff2442?style=flat-square)](http://xhslink.com/o/8czcPQfNziK)
+![Projects](https://img.shields.io/badge/Projects-4-24292f?style=flat-square)
+![Papers](https://img.shields.io/badge/Papers-4-7a1fa2?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Figures%20%26%20Slides-0a7ea4?style=flat-square)
+![Social](https://img.shields.io/badge/Social-Xiaohongshu-ff2442?style=flat-square)
 
 </div>
 
