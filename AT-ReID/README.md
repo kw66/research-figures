@@ -17,6 +17,10 @@ Towards Anytime Retrieval: A Benchmark for Anytime Person Re-Identification
 > [!NOTE]
 > 👤 面向任意时间的人体检索 benchmark，覆盖白天/夜晚、短期/长期等六类场景，并配套提出 AT-USTC 数据集。
 
+<p align="center">
+  <img src="../assets/project-previews/at-reid.png" alt="AT-ReID preview" width="92%">
+</p>
+
 ## ✨ Overview
 
 AT-ReID 面向任意时间的人体检索任务，覆盖白天/夜晚、短期/长期等六类场景，并配套提出 AT-USTC 数据集。

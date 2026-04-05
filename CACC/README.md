@@ -13,6 +13,10 @@ Cloth-aware Center Cluster Loss for Cloth-Changing Person Re-identification
 > [!NOTE]
 > 👕 面向换衣行人重识别，设计 cloth-aware 度量学习损失来获取更稳定的衣服无关特征。
 
+<p align="center">
+  <img src="../assets/project-previews/cacc.png" alt="CACC preview" width="92%">
+</p>
+
 ## ✨ Overview
 
 CACC 面向换衣行人重识别任务，设计了 cloth-aware 的度量学习损失来获取更稳定的衣服无关特征。

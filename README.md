@@ -14,6 +14,51 @@
 > [!TIP]
 > 这个仓库更像一个科研绘图导航页：代码仓、论文、知乎、小红书和展示资产被分层整理，不再混在同一个 README 首屏里。
 
+## 🖼️ 项目预览
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="./AT-ReID">
+        <img src="./assets/project-previews/at-reid.png" alt="AT-ReID preview" width="100%">
+      </a>
+      <br/>
+      <strong>👤 AT-ReID</strong>
+      <br/>
+      Anytime Person Re-Identification
+    </td>
+    <td align="center" width="50%">
+      <a href="./CIFT">
+        <img src="./assets/project-previews/cift.png" alt="CIFT preview" width="100%">
+      </a>
+      <br/>
+      <strong>🌗 CIFT</strong>
+      <br/>
+      Visible-Infrared Person Re-identification
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="./CACC">
+        <img src="./assets/project-previews/cacc.png" alt="CACC preview" width="100%">
+      </a>
+      <br/>
+      <strong>👕 CACC</strong>
+      <br/>
+      Cloth-Changing Person Re-identification
+    </td>
+    <td align="center" width="50%">
+      <a href="./MagicPaint">
+        <img src="./assets/project-previews/magicpaint.png" alt="MagicPaint preview" width="100%">
+      </a>
+      <br/>
+      <strong>🎨 MagicPaint</strong>
+      <br/>
+      Image Inpainting with Diffusion Model
+    </td>
+  </tr>
+</table>
+
 ## 🧭 项目导航
 
 | Project | Topic | Resources |
