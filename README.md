@@ -5,14 +5,14 @@
 从草图到成品的科研绘图资料仓，集中收录多个项目的绘图源文件、海报、报告幻灯片与其他可编辑展示资产。
 
 [![Projects](https://img.shields.io/badge/Projects-4-24292f?style=flat-square)](./)
+[![Papers](https://img.shields.io/badge/Papers-4-7a1fa2?style=flat-square)](./)
 [![Focus](https://img.shields.io/badge/Focus-Figures%20%26%20Slides-0a7ea4?style=flat-square)](./)
-[![Main%20Code](https://img.shields.io/badge/Main%20Code-AT--ReID-181717?style=flat-square&logo=github)](https://github.com/kw66/AT-ReID)
 [![Social](https://img.shields.io/badge/Social-Xiaohongshu-ff2442?style=flat-square)](http://xhslink.com/o/8czcPQfNziK)
 
 </div>
 
 > [!TIP]
-> 这个仓库更像一个科研绘图导航页：代码仓、论文、知乎、小红书和展示资产被分层整理，不再混在同一个 README 首屏里。
+> 点击上方项目预览或下方项目导航，即可进入对应项目目录查看绘图源文件、海报、报告幻灯片与论文入口。
 
 ## 🖼️ 项目预览
 
@@ -71,5 +71,5 @@
 ## 📦 仓库定位
 
 - 这个仓库只存放科研绘图与展示资产，不承载训练或评测代码。
-- 仍然直接用于主代码仓 README 展示的导出图，可以继续保留在对应代码仓中。
-- 具体到每个项目的论文、社媒与引用信息，请进入各自子目录查看。
+- 每个子目录对应一个具体项目，收录该项目的绘图源文件、海报、幻灯片与相关入口。
+- 具体到每个项目的论文、仓库、社媒与引用信息，请进入各自子目录查看。
