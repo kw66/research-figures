@@ -1,21 +1,21 @@
 # 科研绘图
 
-This repository stores research plotting assets, presentation decks, posters, and other figure-source materials that are intentionally separated from code repositories.
+这个仓库用于集中存放科研绘图相关资产，包括绘图源文件、海报、报告幻灯片以及其他不适合继续混在代码仓中的展示材料。
 
-The split keeps the main `AT-ReID` repository focused on:
+把这些内容拆出来之后，主 `AT-ReID` 仓库就可以继续聚焦在：
 
-- benchmark and dataset description
-- AT-ReID code
-- reproducible training and evaluation entry points
+- benchmark 与 dataset 说明
+- AT-ReID 代码本体
+- 可复现的训练与评测入口
 
 ## Layout
 
-- `AT-ReID/`: oral slides, poster, and plotting source files for the AT-ReID paper.
-- `CIFT/`: research figure assets for the CIFT project.
-- `CACC/`: research figure assets for the CACC project.
-- `MagicPaint/`: research figure assets for the MagicPaint project.
+- `AT-ReID/`：AT-ReID 论文相关的 oral、poster 和绘图源文件。
+- `CIFT/`：CIFT 项目的科研绘图与展示材料。
+- `CACC/`：CACC 项目的科研绘图与展示材料。
+- `MagicPaint/`：MagicPaint 项目的科研绘图与展示材料。
 
-## Notes
+## 说明
 
-- Exported figures that are still displayed directly in the main `AT-ReID` README remain in that repository on purpose.
-- This repository is for research figure assets and presentation materials, not for training or evaluation code.
+- 仍然直接用于主 `AT-ReID` README 展示的导出图，继续保留在主仓中。
+- 这个仓库只负责科研绘图和展示资产，不承载训练或评测代码。
