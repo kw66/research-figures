@@ -1,5 +1,7 @@
 # CACC
 
+[\[小红书介绍\]](http://xhslink.com/o/2IpZCVmnoM6)
+
 [\[Paper\]](https://link.springer.com/chapter/10.1007/978-3-031-18907-4_41) Cloth-aware center cluster loss for cloth-changing person re-identification (PRCV2022)
 
 ### Citation

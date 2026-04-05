@@ -6,6 +6,10 @@
 
 [\[方法介绍\]](https://zhuanlan.zhihu.com/p/1947080865181078424)
 
+[\[Repo\]](https://github.com/kw66/AT-ReID)
+
+[\[小红书介绍\]](http://xhslink.com/o/8czcPQfNziK)
+
 [\[Paper\]](https://arxiv.org/abs/2509.16635) Towards Anytime Retrieval: A Benchmark for Anytime Person Re-Identification (IJCAI2025 oral)
 
 ### Citation

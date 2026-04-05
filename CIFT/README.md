@@ -2,6 +2,8 @@
 
 [\[知乎介绍\]](https://zhuanlan.zhihu.com/p/552705108)
 
+[\[小红书介绍\]](http://xhslink.com/o/9Q48HKNssj6)
+
 [\[Paper\]](https://arxiv.org/abs/2208.00967) Counterfactual Intervention Feature Transfer for Visible-Infrared Person Re-identification (ECCV2022)
 
 ### Citation

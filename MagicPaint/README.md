@@ -1,5 +1,9 @@
 # MagicPaint
 
+[\[Repo\]](https://github.com/littleYaang/MagicPaint)
+
+[\[小红书介绍\]](http://xhslink.com/o/1mBuHa2IU4U)
+
 [\[Paper\]](https://doi.org/10.1609/aaai.v40i14.38151) MagicPaint: Operate Anything for Image Inpainting with Diffusion Model (AAAI 2026)
 
 ### Citation
