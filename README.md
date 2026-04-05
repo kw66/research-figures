@@ -20,41 +20,25 @@
   <tr>
     <td align="center" width="50%">
       <a href="./AT-ReID">
-        <img src="./assets/project-previews/at-reid.png" alt="AT-ReID preview" width="100%">
+        <img src="./assets/project-cards/at-reid.png" alt="AT-ReID preview card" width="100%">
       </a>
-      <br/>
-      <strong>👤 AT-ReID</strong>
-      <br/>
-      Anytime Person Re-Identification
     </td>
     <td align="center" width="50%">
       <a href="./CIFT">
-        <img src="./assets/project-previews/cift.png" alt="CIFT preview" width="100%">
+        <img src="./assets/project-cards/cift.png" alt="CIFT preview card" width="100%">
       </a>
-      <br/>
-      <strong>🌗 CIFT</strong>
-      <br/>
-      Visible-Infrared Person Re-identification
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="./CACC">
-        <img src="./assets/project-previews/cacc.png" alt="CACC preview" width="100%">
+        <img src="./assets/project-cards/cacc.png" alt="CACC preview card" width="100%">
       </a>
-      <br/>
-      <strong>👕 CACC</strong>
-      <br/>
-      Cloth-Changing Person Re-identification
     </td>
     <td align="center" width="50%">
       <a href="./MagicPaint">
-        <img src="./assets/project-previews/magicpaint.png" alt="MagicPaint preview" width="100%">
+        <img src="./assets/project-cards/magicpaint.png" alt="MagicPaint preview card" width="100%">
       </a>
-      <br/>
-      <strong>🎨 MagicPaint</strong>
-      <br/>
-      Image Inpainting with Diffusion Model
     </td>
   </tr>
 </table>
