@@ -47,6 +47,18 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="./CCIL">
+        <img src="./assets/project-previews/ccil.png" alt="CCIL preview" width="100%">
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="./MFEN">
+        <img src="./assets/project-previews/mfen.png" alt="MFEN preview" width="100%">
+      </a>
+    </td>
+  </tr>
 </table>
 
 ## 🧭 项目导航
@@ -56,6 +68,8 @@
 | [AT-ReID](./AT-ReID) | 👤 Anytime Person Re-Identification | [Paper](https://arxiv.org/abs/2509.16635) / [Repo](https://github.com/kw66/AT-ReID) / [小红书](http://xhslink.com/o/8czcPQfNziK) |
 | [CIFT](./CIFT) | 🌗 Visible-Infrared Person Re-identification | [Paper](https://arxiv.org/abs/2208.00967) / [知乎](https://zhuanlan.zhihu.com/p/552705108) / [小红书](http://xhslink.com/o/9Q48HKNssj6) |
 | [CACC](./CACC) | 👕 Cloth-Changing Person Re-identification | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-18907-4_41) / [小红书](http://xhslink.com/o/2IpZCVmnoM6) |
+| [CCIL](./CCIL) | 👕 Cloth-Changing Person Re-identification | [Paper](https://ieeexplore.ieee.org/document/11552757) / [PPTX](./CCIL/画图.pptx) |
 | [MagicPaint](./MagicPaint) | 🎨 Image Inpainting with Diffusion Model | [Paper](https://doi.org/10.1609/aaai.v40i14.38151) / [Repo](https://github.com/littleYaang/MagicPaint) / [小红书](http://xhslink.com/o/1mBuHa2IU4U) |
+| [MFEN](./MFEN) | 🌗 Visible-Infrared Person Re-identification | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Li_MFEN_Multi-Frequency_Expert_Network_for_Visible-Infrared_Person_Re-ID_CVPR_2026_paper.html) / [PPTX](./MFEN/画图.pptx) |
 | [ColorAnalysis](./ColorAnalysis) | 🎨 科研绘图配色避坑分析 | [PPTX](./ColorAnalysis/配色分析.pptx) / [小红书](http://xhslink.com/o/9frz2vr2R8o) |
 | [ColorPalette](./ColorPalette) | 🧩 科研绘图常用色阶与 PPT 配色模板 | [PPTX](./ColorPalette/配色.pptx) / [小红书](http://xhslink.com/o/2vuGC6sZEP5) |
