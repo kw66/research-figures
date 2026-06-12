@@ -1,6 +1,6 @@
 <div align="center">
 
-# 科研绘图
+# 科研绘图PPT
 
 从草图到成品的科研绘图资料仓，集中收录多个项目的绘图源文件、海报、报告幻灯片与其他可编辑展示资产。
 
@@ -65,7 +65,7 @@
 
 | Project | Topic | Resources |
 | --- | --- | --- |
-| [AT-ReID](./AT-ReID) | 👤 任意时间行人重识别 | [Paper](https://arxiv.org/abs/2509.16635) / [Repo](https://github.com/kw66/AT-ReID) / [小红书](http://xhslink.com/o/8czcPQfNziK) |
+| [AT-ReID](./AT-ReID) | 👤 全时段行人重识别 | [Paper](https://arxiv.org/abs/2509.16635) / [Repo](https://github.com/kw66/AT-ReID) / [小红书](http://xhslink.com/o/8czcPQfNziK) |
 | [CCIL](./CCIL) | 👕 换衣行人重识别 | [Paper](https://arxiv.org/abs/2305.06145) |
 | [CIFT](./CIFT) | 🌗 可见光-红外行人重识别 | [Paper](https://arxiv.org/abs/2208.00967) / [知乎](https://zhuanlan.zhihu.com/p/552705108) / [小红书](http://xhslink.com/o/9Q48HKNssj6) |
 | [MFEN](./MFEN) | 🌗 可见光-红外行人重识别 | [Paper](https://arxiv.org/abs/2606.12051) |
