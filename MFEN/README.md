@@ -5,8 +5,7 @@
 MFEN: Multi-Frequency Expert Network for Visible-Infrared Person Re-ID
 
 [![Venue](https://img.shields.io/badge/CVPR-2026%20Highlight-7a1fa2?style=flat-square)](https://openaccess.thecvf.com/content/CVPR2026/html/Li_MFEN_Multi-Frequency_Expert_Network_for_Visible-Infrared_Person_Re-ID_CVPR_2026_paper.html)
-[![Paper](https://img.shields.io/badge/Paper-CVF%20Open%20Access-b31b1b?style=flat-square)](https://openaccess.thecvf.com/content/CVPR2026/html/Li_MFEN_Multi-Frequency_Expert_Network_for_Visible-Infrared_Person_Re-ID_CVPR_2026_paper.html)
-[![Asset](https://img.shields.io/badge/Asset-PPTX-d24726?style=flat-square)](./画图.pptx)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=flat-square)](https://arxiv.org/abs/2606.12051)
 
 </div>
 
@@ -25,10 +24,7 @@ MFEN 针对 visible-infrared person re-identification 中由光照、波长和�
 
 | Type | Link |
 | --- | --- |
-| 🎞️ Slides | [画图.pptx](./画图.pptx) |
-| 🖼️ Cover | [封面.png](./封面.png) |
-| 📄 Paper | [MFEN: Multi-Frequency Expert Network for Visible-Infrared Person Re-ID](https://openaccess.thecvf.com/content/CVPR2026/html/Li_MFEN_Multi-Frequency_Expert_Network_for_Visible-Infrared_Person_Re-ID_CVPR_2026_paper.html) |
-| 📎 PDF | [CVF PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_MFEN_Multi-Frequency_Expert_Network_for_Visible-Infrared_Person_Re-ID_CVPR_2026_paper.pdf) |
+| 📄 Paper | [MFEN: Multi-Frequency Expert Network for Visible-Infrared Person Re-ID](https://arxiv.org/abs/2606.12051) |
 
 ## 📚 Citation
 

@@ -5,8 +5,7 @@
 Causal Clothes-Invariant Feature Learning for Cloth-Changing Person Re-ID
 
 [![Venue](https://img.shields.io/badge/IEEE%20TCSVT-2026-7a1fa2?style=flat-square)](https://ieeexplore.ieee.org/document/11552757)
-[![Paper](https://img.shields.io/badge/Paper-IEEE%20Xplore-0a7ea4?style=flat-square)](https://ieeexplore.ieee.org/document/11552757)
-[![Asset](https://img.shields.io/badge/Asset-PPTX-d24726?style=flat-square)](./画图.pptx)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=flat-square)](https://arxiv.org/abs/2305.06145)
 
 </div>
 
@@ -25,9 +24,7 @@ CCIL 针对 cloth-changing person re-identification 中服装与身份标签的�
 
 | Type | Link |
 | --- | --- |
-| 🎞️ Slides | [画图.pptx](./画图.pptx) |
-| 🖼️ Cover | [封面.png](./封面.png) |
-| 📄 Paper | [Causal Clothes-Invariant Feature Learning for Cloth-Changing Person Re-ID](https://ieeexplore.ieee.org/document/11552757) |
+| 📄 Paper | [Causal Clothes-Invariant Feature Learning for Cloth-Changing Person Re-ID](https://arxiv.org/abs/2305.06145) |
 
 ## 📚 Citation
 
