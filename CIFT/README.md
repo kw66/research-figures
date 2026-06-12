@@ -15,7 +15,7 @@ Counterfactual Intervention Feature Transfer for Visible-Infrared Person Re-iden
 > 🌗 面向可见光-红外行人重识别，通过反事实干预增强跨模态图像检索过程。
 
 <p align="center">
-  <img src="../assets/project-previews/cift.png" alt="CIFT preview" width="92%">
+  <img src="./封面.png" alt="CIFT preview" width="92%">
 </p>
 
 ## ✨ Overview

@@ -13,7 +13,7 @@ MFEN: Multi-Frequency Expert Network for Visible-Infrared Person Re-ID
 > 🌗 面向可见光-红外行人重识别，从数据、模型和优化三个层面利用频域信息，缓解由光照差异导致的跨模态差异。
 
 <p align="center">
-  <img src="../assets/project-previews/mfen.png" alt="MFEN preview" width="92%">
+  <img src="./封面.png" alt="MFEN preview" width="92%">
 </p>
 
 ## ✅ Overview

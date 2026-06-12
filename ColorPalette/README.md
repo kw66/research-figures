@@ -13,7 +13,7 @@
 > 🧩 收录可直接用于 PPT 科研绘图的常用色阶、参灰色卡与高光渐变配色参考。
 
 <p align="center">
-  <img src="../assets/project-previews/color-palette.png" alt="ColorPalette preview" width="92%">
+  <img src="./封面.png" alt="ColorPalette preview" width="92%">
 </p>
 
 ## ✨ Overview

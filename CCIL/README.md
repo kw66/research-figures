@@ -13,7 +13,7 @@ Causal Clothes-Invariant Feature Learning for Cloth-Changing Person Re-ID
 > 👕 面向换衣行人重识别，通过因果干预建模 \(P(Y|do(X))\)，缓解训练集中的服装捷径问题，学习更稳定的服装不变身份特征。
 
 <p align="center">
-  <img src="../assets/project-previews/ccil.png" alt="CCIL preview" width="92%">
+  <img src="./封面.png" alt="CCIL preview" width="92%">
 </p>
 
 ## ✅ Overview

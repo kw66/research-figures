@@ -13,7 +13,7 @@
 > 🎨 围绕刺眼配色、互补度、显色强度、对比度与舒适配色反推的科研绘图配色分析。
 
 <p align="center">
-  <img src="../assets/project-previews/color-analysis.png" alt="ColorAnalysis preview" width="92%">
+  <img src="./封面.png" alt="ColorAnalysis preview" width="92%">
 </p>
 
 ## ✨ Overview
