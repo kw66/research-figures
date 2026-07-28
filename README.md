@@ -37,26 +37,36 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="./CACC">
-        <img src="./assets/project-previews/cacc.png" alt="CACC preview" width="100%">
+      <a href="./ANFI">
+        <img src="./assets/project-previews/anfi.png" alt="ANFI preview" width="100%">
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="./MagicPaint">
-        <img src="./assets/project-previews/magicpaint.png" alt="MagicPaint preview" width="100%">
+      <a href="./CACC">
+        <img src="./assets/project-previews/cacc.png" alt="CACC preview" width="100%">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
+      <a href="./MagicPaint">
+        <img src="./assets/project-previews/magicpaint.png" alt="MagicPaint preview" width="100%">
+      </a>
+    </td>
+    <td align="center" width="50%">
       <a href="./ColorAnalysis">
         <img src="./assets/project-previews/color-analysis.png" alt="ColorAnalysis preview" width="100%">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="./ColorPalette">
         <img src="./assets/project-previews/color-palette.png" alt="ColorPalette preview" width="100%">
       </a>
+    </td>
+    <td align="center" width="50%">
+      &nbsp;
     </td>
   </tr>
 </table>
@@ -69,6 +79,7 @@
 | [CCIL](./CCIL) | 👕 换衣行人重识别 | [Paper](https://arxiv.org/abs/2305.06145) |
 | [CIFT](./CIFT) | 🌗 可见光-红外行人重识别 | [Paper](https://arxiv.org/abs/2208.00967) / [知乎](https://zhuanlan.zhihu.com/p/552705108) / [小红书](http://xhslink.com/o/9Q48HKNssj6) |
 | [MFEN](./MFEN) | 🌗 可见光-红外行人重识别 | [Paper](https://arxiv.org/abs/2606.12051) |
+| [ANFI](./ANFI) | 👤 行人重识别 | Paper: To be updated / Citation: To be updated |
 | [CACC](./CACC) | 👕 换衣行人重识别 | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-18907-4_41) / [小红书](http://xhslink.com/o/2IpZCVmnoM6) |
 | [MagicPaint](./MagicPaint) | 🎨 扩散模型图像修复 | [Paper](https://doi.org/10.1609/aaai.v40i14.38151) / [Repo](https://github.com/littleYaang/MagicPaint) / [小红书](http://xhslink.com/o/1mBuHa2IU4U) |
 | [ColorAnalysis](./ColorAnalysis) | 🎨 科研绘图配色避坑分析 | [小红书](http://xhslink.com/o/9frz2vr2R8o) |
