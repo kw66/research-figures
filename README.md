@@ -9,65 +9,73 @@
 
 </div>
 
+<p align="center">
+  <a href="./FigureCollection">
+    <img src="./FigureCollection/封面.webp" alt="画图合集 preview" width="92%">
+  </a>
+</p>
+
 ## 🖼️ 项目预览
 
 <table>
   <tr>
     <td align="center" width="50%">
+      <a href="./FigureCollection">
+        <img src="./assets/project-previews/figure-collection.webp" alt="画图合集 preview" width="100%">
+      </a>
+    </td>
+    <td align="center" width="50%">
       <a href="./AT-ReID">
         <img src="./assets/project-previews/at-reid.png" alt="AT-ReID preview" width="100%">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="./CCIL">
         <img src="./assets/project-previews/ccil.png" alt="CCIL preview" width="100%">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="./CIFT">
         <img src="./assets/project-previews/cift.png" alt="CIFT preview" width="100%">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="./MFEN">
         <img src="./assets/project-previews/mfen.png" alt="MFEN preview" width="100%">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="./ANFI">
         <img src="./assets/project-previews/anfi.png" alt="ANFI preview" width="100%">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="./CACC">
         <img src="./assets/project-previews/cacc.png" alt="CACC preview" width="100%">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="./MagicPaint">
         <img src="./assets/project-previews/magicpaint.png" alt="MagicPaint preview" width="100%">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="./ColorAnalysis">
         <img src="./assets/project-previews/color-analysis.png" alt="ColorAnalysis preview" width="100%">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="./ColorPalette">
         <img src="./assets/project-previews/color-palette.png" alt="ColorPalette preview" width="100%">
       </a>
-    </td>
-    <td align="center" width="50%">
-      &nbsp;
     </td>
   </tr>
 </table>
@@ -76,6 +84,7 @@
 
 | Project | Topic | Resources |
 | --- | --- | --- |
+| [画图合集](./FigureCollection) | 🧩 所有子项目成品图合集 | [PPT](./FigureCollection/画图合集.pptx) |
 | [AT-ReID](./AT-ReID) | 👤 全时段行人重识别 | [Paper](https://arxiv.org/abs/2509.16635) / [Repo](https://github.com/kw66/AT-ReID) / [小红书](http://xhslink.com/o/8czcPQfNziK) |
 | [CCIL](./CCIL) | 👕 换衣行人重识别 | [Paper](https://arxiv.org/abs/2305.06145) |
 | [CIFT](./CIFT) | 🌗 可见光-红外行人重识别 | [Paper](https://arxiv.org/abs/2208.00967) / [知乎](https://zhuanlan.zhihu.com/p/552705108) / [小红书](http://xhslink.com/o/9Q48HKNssj6) |
