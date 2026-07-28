@@ -19,6 +19,8 @@ ANFI: Rethinking Neighbor Feature Interaction in Person Re-ID
 
 ANFI 针对 neighbor-based person re-identification 方法对邻居可靠性的依赖，重新组织邻域交互流程，在同一框架中建模 affinity relations 与 discrepancy relations，并通过 sample-wise adaptive weighting 适应不同可靠性的邻域分布。相关图件覆盖方法框架、邻域可靠性分析、噪声关系监督与实验可视化等内容。
 
+画图 PPT 保留了从草稿到成品的逐步修改过程，包含结构调整、视觉层级、配色和排版的连续版本。
+
 ## 🔗 Quick Links
 
 | Type | Link |
