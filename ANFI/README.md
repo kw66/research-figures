@@ -25,7 +25,7 @@ ANFI 针对 neighbor-based person re-identification 方法对邻居可靠性的�
 
 | Type | Link |
 | --- | --- |
-| 📄 Paper | [arXiv:2607.25407](https://arxiv.org/abs/2607.25407) |
+| 📄 Paper | [ANFI: Rethinking Neighbor Feature Interaction in Person Re-ID](https://arxiv.org/abs/2607.25407) |
 
 ## 📚 Citation
 
